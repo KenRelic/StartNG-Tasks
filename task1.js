@@ -1,13 +1,9 @@
-//
-
 //initialise and store name in variable
 const name = 'Simeon Kenneth';
 const offered_courses = ['HTML', 'CSS', 'JavaScript'];
 
 //if Number of courses is odd - display odd numbers from 1 -200; else if even then
 //display even numbers from 1 - 200 (200 inclusive);
-
-
 function displaydetails(name, offered_courses) {
     let myName = name;
     let myCourses = offered_courses;
