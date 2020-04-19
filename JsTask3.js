@@ -27,5 +27,6 @@ function yugioh(num) {
     }
 }
 
-yugioh(100)
+yugioh(100);
+yugioh(33);
 
